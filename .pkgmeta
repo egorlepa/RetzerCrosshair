@@ -1,0 +1,13 @@
+package-as: RetzerCrosshair
+
+enable-nolib-creation: no
+
+move-folders:
+  RetzerCrosshair/src: RetzerCrosshair
+
+ignore:
+  - deploy.sh
+  - watch.sh
+  - CLAUDE.md
+  - README.md
+  - .github

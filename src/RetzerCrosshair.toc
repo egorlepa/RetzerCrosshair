@@ -1,0 +1,15 @@
+## Interface: 120000, 120001
+## Title: RetzerCrosshair
+## Notes: Cursor crosshair with ring overlay
+## Author: Retzer
+## Version: @project-version@
+## SavedVariables: RetzerCrosshairDB
+## X-Curse-Project-ID: 1499521
+## X-WoWI-ID: 27102
+## X-Wago-ID: QKy9mEK7
+
+libs\LibStub.lua
+libs\RetzerUI-1.0.lua
+
+RetzerCrosshair.lua
+Options.lua
