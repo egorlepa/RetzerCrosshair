@@ -7,6 +7,7 @@
 ## X-Curse-Project-ID: 1499521
 ## X-WoWI-ID: 27102
 ## X-Wago-ID: QKy9mEK7
+## Category: Retzer
 
 libs\LibStub.lua
 libs\RetzerUI-1.0.lua
